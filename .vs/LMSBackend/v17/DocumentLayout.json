@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Library Maangement System\\LMSBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{971103AF-7739-4825-8E99-CB447E84CCBD}|LMSBackend\\LMSBackend.csproj|d:\\library maangement system\\lmsbackend\\lmsbackend\\migrations\\20240513142744_librarymanagementsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{971103AF-7739-4825-8E99-CB447E84CCBD}|LMSBackend\\LMSBackend.csproj|solutionrelative:lmsbackend\\migrations\\20240513142744_librarymanagementsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{971103AF-7739-4825-8E99-CB447E84CCBD}|LMSBackend\\LMSBackend.csproj|d:\\library maangement system\\lmsbackend\\lmsbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{971103AF-7739-4825-8E99-CB447E84CCBD}|LMSBackend\\LMSBackend.csproj|solutionrelative:lmsbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{971103AF-7739-4825-8E99-CB447E84CCBD}|LMSBackend\\LMSBackend.csproj|d:\\library maangement system\\lmsbackend\\lmsbackend\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{971103AF-7739-4825-8E99-CB447E84CCBD}|LMSBackend\\LMSBackend.csproj|solutionrelative:lmsbackend\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{971103AF-7739-4825-8E99-CB447E84CCBD}|LMSBackend\\LMSBackend.csproj|d:\\library maangement system\\lmsbackend\\lmsbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{971103AF-7739-4825-8E99-CB447E84CCBD}|LMSBackend\\LMSBackend.csproj|solutionrelative:lmsbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{971103AF-7739-4825-8E99-CB447E84CCBD}|LMSBackend\\LMSBackend.csproj|d:\\library maangement system\\lmsbackend\\lmsbackend\\data\\lmsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{971103AF-7739-4825-8E99-CB447E84CCBD}|LMSBackend\\LMSBackend.csproj|solutionrelative:lmsbackend\\data\\lmsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{971103AF-7739-4825-8E99-CB447E84CCBD}|LMSBackend\\LMSBackend.csproj|d:\\library maangement system\\lmsbackend\\lmsbackend\\dtos\\usersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{971103AF-7739-4825-8E99-CB447E84CCBD}|LMSBackend\\LMSBackend.csproj|solutionrelative:lmsbackend\\dtos\\usersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{971103AF-7739-4825-8E99-CB447E84CCBD}|LMSBackend\\LMSBackend.csproj|d:\\library maangement system\\lmsbackend\\lmsbackend\\lmsbackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{971103AF-7739-4825-8E99-CB447E84CCBD}|LMSBackend\\LMSBackend.csproj|solutionrelative:lmsbackend\\lmsbackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{971103AF-7739-4825-8E99-CB447E84CCBD}|LMSBackend\\LMSBackend.csproj|d:\\library maangement system\\lmsbackend\\lmsbackend\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{971103AF-7739-4825-8E99-CB447E84CCBD}|LMSBackend\\LMSBackend.csproj|solutionrelative:lmsbackend\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{971103AF-7739-4825-8E99-CB447E84CCBD}|LMSBackend\\LMSBackend.csproj|d:\\library maangement system\\lmsbackend\\lmsbackend\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{971103AF-7739-4825-8E99-CB447E84CCBD}|LMSBackend\\LMSBackend.csproj|solutionrelative:lmsbackend\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{971103AF-7739-4825-8E99-CB447E84CCBD}|LMSBackend\\LMSBackend.csproj|d:\\library maangement system\\lmsbackend\\lmsbackend\\models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{971103AF-7739-4825-8E99-CB447E84CCBD}|LMSBackend\\LMSBackend.csproj|solutionrelative:lmsbackend\\models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{971103AF-7739-4825-8E99-CB447E84CCBD}|LMSBackend\\LMSBackend.csproj|d:\\library maangement system\\lmsbackend\\lmsbackend\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{971103AF-7739-4825-8E99-CB447E84CCBD}|LMSBackend\\LMSBackend.csproj|solutionrelative:lmsbackend\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240513142744_LibraryManagementSystem.cs",
+              "DocumentMoniker": "D:\\Library Maangement System\\LMSBackend\\LMSBackend\\Migrations\\20240513142744_LibraryManagementSystem.cs",
+              "RelativeDocumentMoniker": "LMSBackend\\Migrations\\20240513142744_LibraryManagementSystem.cs",
+              "ToolTip": "D:\\Library Maangement System\\LMSBackend\\LMSBackend\\Migrations\\20240513142744_LibraryManagementSystem.cs",
+              "RelativeToolTip": "LMSBackend\\Migrations\\20240513142744_LibraryManagementSystem.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:27:44.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Library Maangement System\\LMSBackend\\LMSBackend\\appsettings.json",
+              "RelativeDocumentMoniker": "LMSBackend\\appsettings.json",
+              "ToolTip": "D:\\Library Maangement System\\LMSBackend\\LMSBackend\\appsettings.json",
+              "RelativeToolTip": "LMSBackend\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-13T14:21:50.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsersDTO.cs",
+              "DocumentMoniker": "D:\\Library Maangement System\\LMSBackend\\LMSBackend\\DTOs\\UsersDTO.cs",
+              "RelativeDocumentMoniker": "LMSBackend\\DTOs\\UsersDTO.cs",
+              "ToolTip": "D:\\Library Maangement System\\LMSBackend\\LMSBackend\\DTOs\\UsersDTO.cs",
+              "RelativeToolTip": "LMSBackend\\DTOs\\UsersDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:16:57.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LMSBackend",
+              "DocumentMoniker": "D:\\Library Maangement System\\LMSBackend\\LMSBackend\\LMSBackend.csproj",
+              "RelativeDocumentMoniker": "LMSBackend\\LMSBackend.csproj",
+              "ToolTip": "D:\\Library Maangement System\\LMSBackend\\LMSBackend\\LMSBackend.csproj",
+              "RelativeToolTip": "LMSBackend\\LMSBackend.csproj",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-13T14:16:24.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LMSDBContext.cs",
+              "DocumentMoniker": "D:\\Library Maangement System\\LMSBackend\\LMSBackend\\Data\\LMSDBContext.cs",
+              "RelativeDocumentMoniker": "LMSBackend\\Data\\LMSDBContext.cs",
+              "ToolTip": "D:\\Library Maangement System\\LMSBackend\\LMSBackend\\Data\\LMSDBContext.cs",
+              "RelativeToolTip": "LMSBackend\\Data\\LMSDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:15:19.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "D:\\Library Maangement System\\LMSBackend\\LMSBackend\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "LMSBackend\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "D:\\Library Maangement System\\LMSBackend\\LMSBackend\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "LMSBackend\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:04:58.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Library Maangement System\\LMSBackend\\LMSBackend\\Program.cs",
+              "RelativeDocumentMoniker": "LMSBackend\\Program.cs",
+              "ToolTip": "D:\\Library Maangement System\\LMSBackend\\LMSBackend\\Program.cs",
+              "RelativeToolTip": "LMSBackend\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAUwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:00:47.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Users.cs",
+              "DocumentMoniker": "D:\\Library Maangement System\\LMSBackend\\LMSBackend\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "LMSBackend\\Models\\Users.cs",
+              "ToolTip": "D:\\Library Maangement System\\LMSBackend\\LMSBackend\\Models\\Users.cs",
+              "RelativeToolTip": "LMSBackend\\Models\\Users.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:58:00.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Library Maangement System\\LMSBackend\\LMSBackend\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "LMSBackend\\Models\\Category.cs",
+              "ToolTip": "D:\\Library Maangement System\\LMSBackend\\LMSBackend\\Models\\Category.cs",
+              "RelativeToolTip": "LMSBackend\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:57:50.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Books.cs",
+              "DocumentMoniker": "D:\\Library Maangement System\\LMSBackend\\LMSBackend\\Models\\Books.cs",
+              "RelativeDocumentMoniker": "LMSBackend\\Models\\Books.cs",
+              "ToolTip": "D:\\Library Maangement System\\LMSBackend\\LMSBackend\\Models\\Books.cs",
+              "RelativeToolTip": "LMSBackend\\Models\\Books.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:57:31.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Author.cs",
+              "DocumentMoniker": "D:\\Library Maangement System\\LMSBackend\\LMSBackend\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "LMSBackend\\Models\\Author.cs",
+              "ToolTip": "D:\\Library Maangement System\\LMSBackend\\LMSBackend\\Models\\Author.cs",
+              "RelativeToolTip": "LMSBackend\\Models\\Author.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:57:17.456Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
